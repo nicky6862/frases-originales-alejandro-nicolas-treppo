@@ -88,5 +88,8 @@ Date of creation: June 29, 2025
 
 ---
 
+---
+
 © 2025 – alejandro nicolás treppo  
-All rights reserved.
+This work is licensed under the [Creative Commons Attribution–NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nd/4.0/).  
+You may share it with proper attribution. Modification and commercial use are not allowed without permission.
