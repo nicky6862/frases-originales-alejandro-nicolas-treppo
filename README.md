@@ -23,7 +23,7 @@ Se permite compartir libremente el contenido **citando al autor**, pero **no se 
 
 > Autor: **alejandro nicolás treppo**  
 > Fecha de publicación: 2025-06-29  
-> Contacto o red social: *(opcional, si querés dejar GitHub o mail)*
+> Contacto o red social: *(lucyesmebra07@gmail.com)*
 
 ---
 
