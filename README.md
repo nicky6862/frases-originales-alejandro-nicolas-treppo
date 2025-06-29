@@ -34,3 +34,8 @@ Se permite compartir libremente el contenido **citando al autor**, pero **no se 
 > “Argentina no necesita elegir entre imperios: necesita que ninguno la elija como peón.”
 
 Para leer todas, consultá el archivo `frases.md` 📘
+
+---
+## 🌍 Other languages
+
+- 📄 [English version – frases_en.md](frases_en.md)
